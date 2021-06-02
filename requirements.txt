@@ -28,7 +28,7 @@ requests==2.23.0
 six==1.15.0
 soupsieve==2.0.1      
 toml==0.10.1
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.21
 Werkzeug==1.0.1
 wincertstore==0.2
